@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|c:\\users\\lenovo\\documents\\pgdac\\project\\dotnetapi\\solution1\\agadadotnet\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|solutionrelative:agadadotnet\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|c:\\users\\lenovo\\documents\\pgdac\\project\\dotnetapi\\solution1\\agadadotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|solutionrelative:agadadotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|c:\\users\\lenovo\\documents\\pgdac\\project\\dotnetapi\\solution1\\agadadotnet\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|solutionrelative:agadadotnet\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|c:\\users\\lenovo\\documents\\pgdac\\project\\dotnetapi\\solution1\\agadadotnet\\controllers\\customerlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC9F0F9-6F48-42CB-AABD-F1FEC9DAC355}|agadadotnet\\agadadotnet.csproj|solutionrelative:agadadotnet\\controllers\\customerlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Models\\User.cs",
+              "RelativeDocumentMoniker": "agadadotnet\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Models\\User.cs",
+              "RelativeToolTip": "agadadotnet\\Models\\User.cs",
+              "ViewState": "AQIAABsAAABAnJmZmZkywCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:11:25.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "agadadotnet\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Models\\Role.cs",
+              "RelativeToolTip": "agadadotnet\\Models\\Role.cs",
+              "ViewState": "AQIAAAIAAAAgNDMzM7MiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:09:15.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "agadadotnet\\Controllers\\UserLoginController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "agadadotnet\\Controllers\\UserLoginController.cs",
+              "ViewState": "AQIAAF0AAAAAvMzMzMz6vy4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:57:26.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Controllers\\CustomerLoginController.cs",
+              "RelativeDocumentMoniker": "agadadotnet\\Controllers\\CustomerLoginController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\pgdac\\Project\\dotnetapi\\Solution1\\agadadotnet\\Controllers\\CustomerLoginController.cs",
+              "RelativeToolTip": "agadadotnet\\Controllers\\CustomerLoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:56:20.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
