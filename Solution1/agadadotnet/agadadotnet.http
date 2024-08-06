@@ -1,0 +1,6 @@
+@agadadotnet_HostAddress = http://localhost:5138
+
+GET {{agadadotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
